@@ -86,3 +86,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/이기자-000000?style=for-the-badge&logo=Anaconda&logoColor=ffffff">
 <img src="https://img.shields.io/badge/이기자-000000?style=plastic&logo=Anaconda&logoColor=ffffff">
 <img src="https://img.shields.io/badge/이기자-000000?style=social&logo=Anaconda&logoColor=000000">
+
+<!-- 깃 허브 상태(스텟-step) 등록하기 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSPyo&show_icons=true&theme=radical)

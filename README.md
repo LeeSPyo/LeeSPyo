@@ -52,3 +52,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr/>
+<h2> 안녕하세요 </h2>
+<ul>
+ <li>사과</li>
+ <li>배</li>
+ <li>바나나</li>
+ <li>파인애플</li>
+</ul>
+
+<hr/>
+<h2> 안녕하세요 </h2>
+<ol>
+ <li>사과</li>
+ <li>배</li>
+ <li>바나나</li>
+ <li>파인애플</li>
+</ol>
+<hr/>
+
+<h2>어디로 갈까요?</h2>
+<p><a href="http://www.naver.com">네이버</a></p>
+<p><a href="http://www.daum.net">다음</a></p>

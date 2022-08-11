@@ -82,4 +82,4 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<img src="img.shields.io/category/build/이기자-000000?style=Anaconda&logo=Anaconda&logoColor=44A833">
+<img src="https://img.shields.io/badge/이기자-000000?style=Anaconda&logo=Anaconda&logoColor=44A833">

@@ -75,3 +75,9 @@ Here are some ideas to get you started:
 <h2>어디로 갈까요?</h2>
 <p><a href="http://www.naver.com">네이버</a></p>
 <p><a href="http://www.daum.net">다음</a></p>
+
+<p>
+ <a href="http://www.daum.net">다음
+  <img src="http://49.142.157.251:9090/javagreenS_lsp/rts_shop/rts_product/220804170124_f_6.jpg">
+ </a>
+</p>

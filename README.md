@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <p><a href="http://www.daum.net">다음</a></p>
 
 <p>
- <a href="http://www.daum.net">다음
+ <a href="http://www.daum.net">
   <img src="http://49.142.157.251:9090/javagreenS_lsp/rts_shop/rts_product/220804170124_f_6.jpg">
  </a>
 </p>

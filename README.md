@@ -89,4 +89,4 @@ Here are some ideas to get you started:
 
 <!-- 깃 허브 상태(스텟-step) 등록하기 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSPyo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSPyo&show_icons=true&theme=dracula)

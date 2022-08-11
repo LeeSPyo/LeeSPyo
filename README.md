@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/이기자-000000?style=badge&logo=Anaconda&logoColor=ffffff">
 <img src="https://img.shields.io/badge/이기자-000000?style=for-the-badge&logo=Anaconda&logoColor=ffffff">
 <img src="https://img.shields.io/badge/이기자-000000?style=plastic&logo=Anaconda&logoColor=ffffff">
-<img src="https://img.shields.io/badge/이기자-000000?style=Anaconda&logo=Anaconda&logoColor=ffffff">
+<img src="https://img.shields.io/badge/이기자-000000?style=social&logo=Anaconda&logoColor=000000">

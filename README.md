@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&text=Stroke%20Test&fontAlign=70&stroke=111111&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&text=WelCome&fontAlign=70&stroke=ffffff&strokeWidth=3&color=random)
